@@ -1,0 +1,34 @@
+Requester Name:
+Requester Email:	
+Request Date:	
+	
+Description of Request:	
+
+
+
+
+Environment - Briefly describe environment affected:
+(local, AWS, colo)	
+
+
+
+
+Data - What type of data affected:
+(public, confidential and who owns)	
+
+
+
+
+Data - Briefly describe data flow:
+(Where is data coming from, where is it being stored, where is it going)	
+
+
+
+
+Security - Who requires access:
+(Name, Email, Manager)	
+
+
+
+
+
